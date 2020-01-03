@@ -1,5 +1,6 @@
 # company_database
 Made using Oracle 11c for the purpose of satisfying the data storage needs of a fictitious company "XYZ". 
+Purpose of this project was to gain a better understanding of SQL and Oracle.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
