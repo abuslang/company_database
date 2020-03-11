@@ -1,3 +1,5 @@
+--random data values inserted into the database for testing purposes
+
 --employees
 INSERT INTO PERSON values ('abc170030', 'Brian', 'S', 'Kopecky', 22, 'Male', '123 Main St.', 'Whoville', 'TX', 75094, '214-555-5555', 'brian@gmail.com');
 INSERT INTO PERSON values ('hxc123456', 'Hellen', 'K', 'Cole', 25, 'Female', '124 Main St.', 'Whoville', 'TX', 75094, '214-565-5755', 'hellen@gmail.com');
